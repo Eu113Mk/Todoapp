@@ -1,5 +1,5 @@
 import React from 'react';
-// import List from './components/TodoList'
+import './App.css';
 import Add from './component/Add';
 import List from './component/TodoList';
 import Filter from './component/Filter';
